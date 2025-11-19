@@ -1,0 +1,18 @@
+[
+    {
+        "task": "CN LAB PROG",
+        "done": true
+    },
+    {
+        "task": "CN lab",
+        "done": false
+    },
+    {
+        "task": "git and more",
+        "done": true
+    },
+    {
+        "task": "ia test",
+        "done": false
+    }
+]
